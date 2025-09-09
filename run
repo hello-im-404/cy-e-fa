@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+
+gcc main.c -lncurses
+./a.out
